@@ -16,7 +16,7 @@
 .footer-section -  background-color: #ddeff0;
 
 
-font awesome icons
+font awesome icons for services
 <i class="fa-regular fa-calendar-check fa-2x"></i>
 
 <i class="fa-solid fa-magnifying-glass-chart fa-2x"></i>
@@ -28,3 +28,15 @@ font awesome icons
  <i class="fa-solid fa-envelope fa-2x"></i>
 
  <i class="fa-solid fa-bullseye fa-2x"></i>
+
+
+Icons for core values
+<i class="fa-solid fa-layer-group"></i>
+
+ <i class="fa-solid fa-right-to-bracket"></i>
+
+<i class="fa-solid fa-user-plus"></i>
+
+ <i class="fa-solid fa-people-arrows"></i>
+
+<i class="fa-solid fa-file-circle-check"></i>
