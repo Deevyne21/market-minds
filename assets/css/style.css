@@ -865,9 +865,9 @@ footer p a:hover {
   .footer-container .logo-text p {
     padding: 10px;
   }
-
-  /* Max-width: 500px */
 }
+
+/* Max-width: 500px */
 
 @media (max-width: 500px) {
   .hero {
@@ -887,23 +887,21 @@ footer p a:hover {
     padding-left: 35px;
   }
 
-  .our-services {
-    grid-template-columns: 1fr;
+  .about-right h4,
+  p {
+    padding-left: 0;
   }
 
-  .box2 {
-    width: 350px;
+  .our-services {
+    grid-template-columns: 1fr;
   }
 
   .core-val {
     grid-template-columns: 1fr;
   }
 
-  .box3 {
-    width: 350px;
-  }
   .box4 {
-    width: 350px;
+    /* width: 350px; */
     margin: 5px;
   }
 
